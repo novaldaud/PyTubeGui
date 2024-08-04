@@ -146,7 +146,7 @@ root = tk.Tk()
 # disabling the resizing property
 root.geometry("520x280")
 root.resizable(False, False)
-root.title("YouTube Video Downloader")
+root.title("Yuhuuuu YouTube Video Downloader")
 root.config(background="PaleGreen1")
 
 # Creating the tkinter Variables
